@@ -1,0 +1,7 @@
+# Configuration for git attributes
+*.md linguist-documentation
+*.js linguist-detectable
+*.min.css linguist-generated
+src/**/*.js linguist-detectable
+*.json linguist-detectable=false
+*.html linguist-vendored
