@@ -1,0 +1,9 @@
+.pnpm-store/
+build/
+.env
+dist/
+yarn-error.log*
+node_modules/
+coverage/
+.env.local
+_site/
